@@ -1,0 +1,87 @@
+
+    html{
+        scroll-behavior: smooth;
+    }
+    body{
+        margin: 0;
+        font-family: 'Fjalla One', 
+sans-serif;
+    }
+
+    footer{
+    background-color:rgb(179, 49, 151);
+    display: flex;
+    padding: 15px;
+    color:white
+    }
+
+
+.topMenu{
+    display: flex;
+    background-color:rgb(179, 49, 151);
+    margin: 0; 
+    }
+.topMenu li{
+    color:white;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+}
+.topMenu li :first-child{
+    margin-right:auto;
+    
+}
+.estilo1{
+    display: flex;
+    height: 40vh;
+    background-color:rgb(158, 158, 234);
+
+}
+.centralize{
+    margin: auto;
+    text-align:center;
+
+}
+.estilo2{
+    display: flex;
+    background-color:#ffbfd8;
+
+
+}
+ 
+.estilo3{
+    display: flex;
+    background-color:rgb(158, 158, 234);
+
+}
+
+.imagem{
+    width: 30vw;
+    height: 30vw;
+    padding-left: 15px;
+}
+
+.botão-black{background-color: white;
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+
+
+}
+
+.BaseMenu{
+    display: flex;
+    background-color:rgb(179, 49, 151);
+    margin: 0;
+}
+
+.BaseMenu li { 
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 2vh;
+    
+}
+
+.BaseMenu li :first-child{ margin-right: 
+auto;}
